@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Explain HTML and CSS to your Mom"
-date:   2016-09-19 18:17:52 +0000
+date:   2016-09-19 14:17:52 -0400
 ---
 
 
-You might remember from my last post, that my mom passed away right before the holidays in 2015. So naturally this blog assignment, with it’s prompt of *“Explain HTML and CSS to your mom”*,  caught me a little by surprise, since I would give anything to be able to really tell my mom all about my ‘learning to code’ journey.
+You might remember from my [last post](https://sandyvern.github.io/2016/09/16/why_i_decided_to_learn_to_code/), that my mom passed away right before the holidays in 2015. So naturally this blog assignment, with it’s prompt of *“Explain HTML and CSS to your mom”*,  caught me a little by surprise, since I would give anything to be able to really tell my mom all about my ‘learning to code’ journey.
 
 I’m not sure she would even know or really care about HTML or CSS under normal circumstances, as she wasn’t necessarily all that interested in computers, other than to do basic things like send an email, type up a letter or check Facebook…but she would happily listen to me explain how HTML and CSS work together to make websites.  She would enjoy hearing me tell her about something that obviously excited me enough to want to share it with her…cause that is just how my mom was.
 
