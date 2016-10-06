@@ -6,10 +6,15 @@ date:   2016-09-16 12:48:11 -0400
 
 I have been fascinated with computers for as long as I can remember. My parents brought home a Commodore 64 back in the early 80’s and I remember playing around with that thing all the time. I wanted to be able to *‘do things*’ with it…not that I knew what it was that I wanted to ’do with it’, but it seemed like it should be able to do really cool things! I remember learning Logo so that I could make this little turtle move around the screen and even way back then I thought it was a pretty cool thing to type in some code and see it actually work.
 
+![](http://i.imgur.com/h8FPZeC.jpg)
+
 ## Don’t Be Afraid to Blow Up Your Computer
+
 Through the years, computers have remained a source of fascination to me. I have taught myself various aspects of computer skills as needed or when I read about some new technology that sounded interesting. Whether it was upgrading my computer with extra RAM, adding a video card, restoring a device back to factory settings, upgrading software/operating systems, learning about Blogger or Wordpress…all these things were just challenges to overcome…that I hoped, in the end, would result in a still functioning computer. And all in all, I think my computer-tinkering-endeavors have been relatively successful. I have managed to not blow up any computers that have been used as a testing ground for self-taught computer skills. And each successful computer-tinkering-endeavor spurs on my desire to learn more about computers.
 
 In high school and college, I loved any and all required computer science classes which so many other of my fellow students hated. To me those classes ended up being easy A’s and also managed to win me some points with friends who were seemingly afraid of their computers, always worried that pressing the wrong button was going to blow up their computers. I still have friends coming to me for help with their computers or smartphones…with “how do you do xyz?” (It seems those same friends that were afraid of pressing the wrong button and blowing up their computers, have grown up to be people afraid to type their questions into Google.) Little do they know that Google is my BFF for learning how to do all these amazing things with computers (or actually, anything that I do!).
+
+![Blue Screen of Death](http://i.imgur.com/EfgkUmi.png)
 
 ## Learn When You Are Inspired to Do Something
 Over the years, I have taught myself HTML and CSS in order to build a website for my pet sitting company, [PawPrints & HoofBeats](http://pawprints-n-hoofbeats.com). My business website has been my testing ground and has gone through many changes over the last 12 years that I have been in business, usually as I learned new skills…and of course, there was lots of trial and error. But with each successful new skill I learned and that I was able to implement into my site or when helping friends or family with their sites my confidence has grown and the desire to continue improving my tech skills continues.
