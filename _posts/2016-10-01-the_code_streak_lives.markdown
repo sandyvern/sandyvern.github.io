@@ -6,7 +6,7 @@ date:   2016-10-01 18:08:01 -0400
 
 Just a day or so after managing to break my 109-day-code-streak at the LearnVerified program of Flatiron School, I have been spending a lot of time pondering the value of the code streak.
 
-[Twitter Status](http://i.imgur.com/gnTaQ7E.jpg)
+![Twitter Status](http://i.imgur.com/gnTaQ7E.jpg)
 
 # What Is A Code Streak?
 
