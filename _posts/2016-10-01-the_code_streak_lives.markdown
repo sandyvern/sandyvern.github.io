@@ -6,6 +6,8 @@ date:   2016-10-01 18:08:01 -0400
 
 Just a day or so after managing to break my 109-day-code-streak at the LearnVerified program of Flatiron School, I have been spending a lot of time pondering the value of the code streak.
 
+[](https://twitter.com/SandyVern/status/772059457341775872)
+
 ## What Is A Code Streak?
 
 For those of you who may have never heard of the term 'codestreak', a general definition of a codestreak is the number of consecutive days on which you’ve spent time coding or learning to code. In my case, it was the consecutive number of days that I spent time learning to code in the LearnVerified platform.
