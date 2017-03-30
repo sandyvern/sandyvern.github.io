@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: svern99@aol.com
 copyright_name: sandyvern
 description: > # this means to ignore newlines until "baseurl:"
-  My journey to a new career path to become a web developer
+  My journey to a new career path as a web developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: SandyVern
 github_username:  sandyvern
