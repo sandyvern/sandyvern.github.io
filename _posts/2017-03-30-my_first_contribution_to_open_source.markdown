@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Contribution to Open Source"
-date:   2017-03-30 20:04:48 +0000
+date:   2017-03-30 16:04:48 -0400
 ---
 
 
@@ -11,7 +11,7 @@ Right within a lesson you may be working on, you are able to edit a typo in a le
 
 Each time I submit a pull request to make a small correction on a lesson that I am working on and it gets accepted, I feel a small sense of accomplishment and satisfaction. And although these contributions have just been correcting small typos or adding a missed word to a sentence, they are totally valid contributions that contribute to the greater overall project. Yet, despite these opportunities, I have been looking forward to a time when I can contribute in a bigger way.
 
-This week, I read a post by Kent C. Dodds titled First Timers Only, that influenced my resolve to be a contributor to Open Source one day. In this post, Kent explained how he decided to get involved in helping first time contributors being able to contribute to Open Source more easily.
+This week, I read a post by Kent C. Dodds titled [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455), that influenced my resolve to be a contributor to Open Source one day. In this post, Kent explained how he decided to get involved in helping first time contributors being able to contribute to Open Source more easily.
 
 > Make it as easy as possible. Say exactly where the code needs to go and recommend a good approach.
 
