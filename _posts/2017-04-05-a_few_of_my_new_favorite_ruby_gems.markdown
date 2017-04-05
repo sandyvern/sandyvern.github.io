@@ -9,13 +9,13 @@ This is the fifth installment of the blogging assignments (out of seven), that I
 
 As the saga continues...
 
-### Progress Update
+## Progress Update
 
 I am still, ever so slowly, pushing my way through the curriculum. After my pretty impressive code streak early on in the race, I hit a few 'bumps in the road of life' that have significantly slowed my progress. Yet, despite those bumps, my love of learning and love of code continues. My progress through the course may have slowed down, but I am still coding every day and enjoying the learning process.
 
 During the last few months, despite the crawling pace through the LearnCo curriculum, I have managed to work my way through a couple of in-depth, Rails coding courses, through Udemy that I had previously purchased but hadn't gotten around to working on yet. As well, as making progress through other coding platforms like [Treehouse](https://www.teamtreehouse.com) and [SoloLearn](https://www.sololearn.com/), which may not seem all that productive in the grand scheme of things, but for me, they are life savers for squeezing in free moments throughout the day to code.
 
-### Despite My Bumps in the Road of Life
+## Despite My Bumps in the Road of Life
 
 Even with my 'bumps in the road of life' I have managed to achieve a pretty 'green' GitHub contribution graph, considering at the beginning of 2016, I didn't even know what GitHub was, nevermind knowing the significance of the GitHub Contribution graph?!?!
 
@@ -27,7 +27,7 @@ During my little 'side trip of Udemy tutorials', I have stumbled upon some usefu
 
 So without further ado...
 
-### My 12+ new (well, new to me) favorite Ruby gems
+## My 12+ new (well, new to me) favorite Ruby gems
 
 1. [hirb](https://rubygems.org/gems/hirb/versions/0.7.3) - provides a mini view framework for console applications and uses it to improve rails console (or irb) default inspect output. This was probably my first cool gem find (at least until I further investigated and found #2 on this list), other than the more commonly used gems like Devise, Bootstrap and even Rails (which are all pretty cool in their own right!), cause it just makes the output in the console so much easier to read and search through.
 2. [table_print](https://rubygems.org/gems/table_print) - similar to the Hirb gem...but even cooler! TablePrint turns objects into nicely formatted columns for easy reading. I find this much easier to customize the information you would like to see by using symbols or strings to reference the columns.
@@ -44,7 +44,7 @@ So without further ado...
 11. [coderay](https://rubygems.org/gems/coderay) - is a Ruby library for syntax highlighting. As someone learning to code, being able to reference a line of code and have syntax highlighting applied when writing a blog post or commenting on a coding blog post, is something you get used quickly and then feel 'naked' without it when you don't have it. You put your code in, and you get it back colored; Keywords, strings, floats, comments - all in different colors. And with line numbers. ![Code Snippet](http://i.imgur.com/O7lOh0T.jpg)
 12. [redcarpet](https://rubygems.org/gems/redcarpet) - a gem that easily adds extensible Markdown to (X)HTML parser. This gem I find particularly useful considering one of the first basic apps you might create when learning to code is a blogging app. And although creating the app is pretty cool, if you wanted to use it for your blog you would quickly find that there is no styling to your text...it just ends up as one big wall of text. Being able to markup your blog post with Markdown (so that you can having the ability to add headings, paragraph breaks, images or links etc) makes the app feel more real.
 
-### Lessons Learned Might Justify the Snail Paced Progress
+## Lessons Learned Might Justify the Snail Paced Progress
 
 Although I am disappointed with myself for letting the pace of my LearnCo lessons slide, I can at least be happy that I am still learning. And in fact, I think my little 'side trip of Udemy tutorials' has been beneficial to my progress through the curriculum. It has shown me a lot of the concepts I have already been learning in another light which has helped to solidify further that knowledge.
 
