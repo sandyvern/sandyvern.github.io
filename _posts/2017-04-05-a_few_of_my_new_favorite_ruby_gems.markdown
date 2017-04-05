@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Few of my New Favorite Ruby Gems"
-date:   2017-04-05 14:36:34 +0000
+date:   2017-04-05 10:36:36 -0400
 ---
 
 
